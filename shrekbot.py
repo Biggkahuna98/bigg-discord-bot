@@ -1,7 +1,7 @@
 # https://github.com/Biggkahuna98/bigg-discord-bot/blob/master/shrekbot.py
 import discord
 
-TOKEN = 'NDY4OTIzNzc3MzQyODk4MTc2.DjAbJA.y1b7wVjVFcSB4X8h-oPKqV_umDA'
+TOKEN = 'NDY4OTM4MzQ4Nzk5NDU5MzI4.DjAeaw.cvTXnHuffxFEeuo1OhRB5arACAE'
 
 client = discord.Client()
 
