@@ -1,7 +1,7 @@
-# https://github.com/Rapptz/discord.py/blob/async/examples/reply.py
+# https://github.com/Biggkahuna98/bigg-discord-bot/blob/master/shrekbot.py
 import discord
 
-TOKEN = 'XXXXXXXXXX'
+TOKEN = 'NDY4OTIzNzc3MzQyODk4MTc2.DjAbJA.y1b7wVjVFcSB4X8h-oPKqV_umDA'
 
 client = discord.Client()
 
